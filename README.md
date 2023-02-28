@@ -2,7 +2,7 @@
 
 Draconic Adventures is intended to expand on adventuring, reimagine boss battles, and give the ability to dominate over all the known world while blasting the dungeons and towers of terror while riding your favorite mythical creature.
 
- 
+ Expect to have good/stable performance when 4.5 gb(4500MB) are allocated to this modpack. if lagges every few seconds or so, the allocate another 500MB
 
 This modpack also includes the resoursepack of Excalibur and stoneborn to give Minecraft a medieval-inspired look.
 
