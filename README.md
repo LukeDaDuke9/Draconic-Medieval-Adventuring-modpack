@@ -10,5 +10,4 @@ Due to this being my very first modpack ever, There may be issues with it, See t
 
 Start with only food and a wooden sword to win all the glory before the nitwits in the village get their own dragon and join forces with the pillagers!
 
-Expect a server-pack file to be available soon!
 
